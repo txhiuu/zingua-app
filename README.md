@@ -1,1 +1,1 @@
-# zingua-app.
+# zingua-app..
